@@ -1,0 +1,13 @@
+{
+  "applinks": {
+    "details": [
+      {
+        "appIDs": ["G575PLNCSX.de.rouven.golfcaddy"],
+        "components": [
+          {"/": "/live/join/", "?": {"code": "??????"}, "comment": "SmartCaddie Live-Scoring invitation"},
+          {"/": "/live/join", "?": {"code": "??????"}}
+        ]
+      }
+    ]
+  }
+}
